@@ -46,7 +46,7 @@
 }
 
 section.banner-sec {
-    background: url(/img/banner1.jpg);
+    background: url(banner1.jpg);
     background-size: cover;
     height: 440px;
     background-position: 50% 29%;
@@ -77,4 +77,5 @@ p {
     line-height: 20px;
     color: brown;
     font-weight: 600;
+
 }
